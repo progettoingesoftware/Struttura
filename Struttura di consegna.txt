@@ -5,26 +5,41 @@ Ogni riga è una cartella
 Progetto
 	1-Versione-1
 		1.1-Codice
+			1.1.1-Codice sorgente
+			1.1.2-Codice interpretabile
+			1.1.3-Codice eseguibile
 		1.2-Documentazione Javadoc
 		1.3-Diagrammi
 		1.4-Scelte Progettuali
 	2-Versione-2
 		2.1-Codice
+			2.1.1-Codice sorgente
+			2.1.2-Codice interpretabile
+			2.1.3-Codice eseguibile
 		2.2-Documentazione Javadoc
 		2.3-Diagrammi
 		2.4-Scelte Progettuali
 	3-Versione-3
 		3.1-Codice
+			3.1.1-Codice sorgente
+			3.1.2-Codice interpretabile
+			3.1.3-Codice eseguibile
 		3.2-Documentazione Javadoc
 		3.3-Diagrammi
 		3.4-Scelte Progettuali
 	4-Versione-4
 		4.1-Codice
+			4.1.1-Codice sorgente
+			4.1.2-Codice interpretabile
+			4.1.3-Codice eseguibile
 		4.2-Documentazione Javadoc
 		4.3-Diagrammi
 		4.4-Scelte Progettuali
 	5-Versione-5
 		5.1-Codice
+			5.1.1-Codice sorgente
+			5.1.2-Codice interpretabile
+			5.1.3-Codice eseguibile
 		5.2-Documentazione Javadoc
 		5.3-Diagrammi
 		5.4-Scelte Progettuali
